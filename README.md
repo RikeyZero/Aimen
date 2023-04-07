@@ -4,6 +4,9 @@
 
 git clone https://github.com/RikeyZero/Aimen.git
 
+/res文件夹里面的img放到bot根目录下的/res里面去
+
+
 ## 在__bot__里启用模块
 
 ## Have Fun
